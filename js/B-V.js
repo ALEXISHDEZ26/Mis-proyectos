@@ -1,0 +1,1 @@
+$("#carrusel1").carousel()
